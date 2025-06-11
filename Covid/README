@@ -1,0 +1,17 @@
+## Covid
+
+**File:** `Covid_Exploratory.sql`  
+This project explores Covid-19 deaths and vaccination data from around the world using SQL.  
+
+**Key Activities:**
+- Data exploration and filtering by continent and country.
+- Calculating key metrics such as:
+- Death percentage per country and globally.
+- Percent of population infected.
+- Highest infection and death counts by country and continent.
+- Aggregation of new cases and deaths.
+- Use of common table expressions (CTEs) to analyze vaccination progress vs. population.
+- Creation and use of temporary tables and SQL views for advanced analysis and easier visualization.
+- Joins between deaths and vaccination data to analyze relationships and trends.
+
+You’ll find queries that identify trends, compare cases and deaths, track vaccination rollouts, and create artifacts (views, temp tables) for visual analytics.
