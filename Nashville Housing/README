@@ -2,6 +2,7 @@
 
 **File:** `Nashville Housing Cleaning.sql`  
 This project involves extensive data cleaning and preprocessing of real estate sales data for Nashville.  
+
 **Key Activities:**
 - Standardizing date formats and ensuring consistency across the dataset.
 - Populating missing property address data by joining on parcel IDs.
