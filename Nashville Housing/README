@@ -1,0 +1,13 @@
+## Nashville Housing
+
+**File:** `Nashville Housing Cleaning.sql`  
+This project involves extensive data cleaning and preprocessing of real estate sales data for Nashville.  
+**Key Activities:**
+- Standardizing date formats and ensuring consistency across the dataset.
+- Populating missing property address data by joining on parcel IDs.
+- Splitting address and owner address fields into multiple columns (Address, City, State) for easier analysis.
+- Normalizing values in categorical fields (e.g., converting "Y"/"N" to "Yes"/"No" in `SoldAsVacant`).
+- Identifying and removing duplicate records using window functions and CTEs.
+- Dropping unused or redundant columns to streamline the final dataset.
+
+This workflow demonstrates practical and advanced SQL data cleaning skills—essential for preparing real-world data for analytics or machine learning
